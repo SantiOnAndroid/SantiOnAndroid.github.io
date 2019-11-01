@@ -1,2 +1,3 @@
 name: Santi on Android, viking apps
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
