@@ -30,7 +30,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     float: right;
-    color: #ffffff;
+    fill: #ffffff;
 }
 a {
     text-decoration: none;
