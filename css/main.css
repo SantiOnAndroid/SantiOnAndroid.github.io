@@ -13,7 +13,7 @@ body {
 }
 
 svg{
-    font: 500%/1 Rockwell, serif;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
     fill:#ffff;
 }
 nav ul, footer ul {
