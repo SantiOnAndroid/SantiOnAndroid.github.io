@@ -27,7 +27,6 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: block;
-    position: relative;
     float: right;
     margin-right: 20px;
 }
