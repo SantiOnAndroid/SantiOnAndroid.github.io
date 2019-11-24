@@ -13,9 +13,10 @@ body {
 }
 
 svg{
-    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
-    color:#ffff;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 }
+
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
