@@ -7,7 +7,8 @@ body {
     width: 70%;
 
     background: #dc3545;
-    transition: 10ms;
+    animation-delay: 0.3s;
+    animation-duration: 0.75s;
 
 
 }
@@ -32,6 +33,7 @@ nav ul li, footer ul li {
     float: right;
     fill: #ffffff;
     background: inherit;
+    font-size: 0.85em;
 }
 a {
     text-decoration: none;
@@ -41,7 +43,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 12vm;
+    font-size: 8.4em;
     font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
     color: #fff;
     font-weight: 800;
@@ -51,7 +53,7 @@ h1 {
     clear: left;
 }
 p {
-    font-size: 12vm;
+    font-size: 8.4em;
     font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
     color: #fff;
     font-weight: 800;
