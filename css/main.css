@@ -1,7 +1,5 @@
 
-https{
-@import url(//db.onlinewebfonts.com/c/4aa3e37e571255737e5e6d4e9d9770a5?family=Rockwell);
-}
+
 
 
 body {
@@ -9,7 +7,7 @@ body {
     width: 70%;
 
     background: #dc3545;
-    transition: 100ms;
+    transition: 10ms;
 
 
 }
@@ -33,7 +31,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
     float: right;
     fill: #fafafa;
-    background: #dc3545;
+    background: inherit;
 }
 a {
     text-decoration: none;
@@ -52,7 +50,7 @@ p {
     color: #fafafa;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid inherit;
     font-size: .8em;
 }
 
