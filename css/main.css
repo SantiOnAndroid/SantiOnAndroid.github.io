@@ -48,7 +48,7 @@ h1 {
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
-    line-height: 0.8em;
+    line-height: 4em;
     float:left;
     clear: left;
 }
@@ -58,7 +58,7 @@ p {
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
-    line-height: 0.8em;
+    line-height: 4em;
     float:left;
     clear: left;
 }
