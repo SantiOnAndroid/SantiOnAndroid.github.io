@@ -17,6 +17,7 @@ svg{
     font-family:inherit;
     background:#dc3545;
     fill: #fff;
+    margin-left:  3.764062063428em;;
 }
 
 
@@ -54,6 +55,7 @@ h1 {
     line-height: 100%;
     float:left;
     clear: left;
+    margin-left:  3.764062063428em;
 }
 p {
     font-size: 7.4em;
