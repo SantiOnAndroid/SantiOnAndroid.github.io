@@ -58,6 +58,9 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #fafafa;
+    font-weight: 800;
+    letter-spacing: -.03em;
+
 }
 a:hover {
     text-decoration: underline;
@@ -107,5 +110,8 @@ ul.posts li {
 #contacte{
     text-decoration: none;
     color: #fafafa;
+    font-weight: 800;
+    letter-spacing: -.03em;
+
 
 }
