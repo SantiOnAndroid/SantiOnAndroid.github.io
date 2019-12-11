@@ -51,7 +51,7 @@ h1 {
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
-    line-height:20px;
+    line-height: 100%;
     float:left;
     clear: left;
 }
@@ -62,7 +62,7 @@ p {
     text-align: left;
     font-weight: 800;
     letter-spacing: -.03em;
-    line-height: 20px;
+    line-height: 100%;
     clear: left;
     float:left;
     vertical-align: baseline;
