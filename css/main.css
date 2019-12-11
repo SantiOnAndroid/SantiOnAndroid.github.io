@@ -1,5 +1,5 @@
 
-
+@import url(//db.onlinewebfonts.com/c/51fdf8021065497210ca54837e1601e9?family=Neue+Einstellung);
 
 
 body {
@@ -30,7 +30,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     float: right;
-    fill: #fafafa;
+    fill: #ffffff;
     background: inherit;
 }
 a {
@@ -41,14 +41,22 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:inherit;
-    color: #fafafa;
+    font-size: 10.162967571256em;
+    font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #fff;
+    font-weight: 800;
+    letter-spacing: -.03em;
+    float:left;
+    clear: left;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #fafafa;
+    font-size: 10.162967571256em;
+    font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #fff;
+    font-weight: 800;
+    letter-spacing: -.03em;
+    float:left;
+    clear: left;
 }
 footer {
     border-top: 1px solid inherit;
