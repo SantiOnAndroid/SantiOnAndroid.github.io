@@ -15,7 +15,7 @@ body {
 
 svg{
     font-family:inherit;
-    background:#dc3545;
+    background:transparent;
     fill: #fff;
     margin-left:  1em;
     transition: 3s;
