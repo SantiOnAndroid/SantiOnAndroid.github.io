@@ -18,6 +18,7 @@ svg{
     background:#dc3545;
     fill: #fff;
     margin-left:  1em;
+    transition: 3s;
 }
 
 
@@ -74,6 +75,7 @@ p {
 footer {
     border-top: 1px solid inherit;
     font-size: .8em;
+
 
 }
 
