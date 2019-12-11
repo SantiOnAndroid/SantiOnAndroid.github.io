@@ -105,6 +105,8 @@ ul.posts li {
     background:#c19a6b;
     padding: 20px;
     color: #ffff;
+    font-family: inherit;
+    margin-bottom: .8em;
 
 
 }
