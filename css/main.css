@@ -16,8 +16,9 @@ body {
 
     margin-left: 2em;
 
+
 }
-svg{
+#icon{
     font-family:inherit;
     background:transparent;
     fill: #fff;
@@ -90,3 +91,4 @@ ul.posts li {
     list-style: none;
     color: #ffff;
 }
+
