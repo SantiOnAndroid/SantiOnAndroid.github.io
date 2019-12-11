@@ -13,7 +13,9 @@ body {
 
 }
 #slide{
-
+    float:left;
+    clear: left;
+    margin-left:  1em;
 
 }
 svg{
@@ -57,9 +59,7 @@ h1 {
     font-weight: 800;
     letter-spacing: -.03em;
     line-height: 100%;
-    float:left;
-    clear: left;
-    margin-left:  1em;
+
 }
 p {
     font-size: 7.4em;
