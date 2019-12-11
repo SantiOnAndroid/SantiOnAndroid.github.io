@@ -32,7 +32,7 @@ nav ul li, footer ul li {
     float: right;
     fill: #ffffff;
     background: inherit;
-    font-size: 0.9em;
+    font-size: 1em;
 }
 a {
     text-decoration: none;
@@ -45,7 +45,6 @@ h1 {
     font-size: 8.4em;
     font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
     color: #fff;
-    font-weight: 800;
     letter-spacing: -.03em;
     line-height: 1em;
     float:left;
@@ -55,7 +54,6 @@ p {
     font-size: 8.4em;
     font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
     color: #fff;
-    font-weight: 800;
     letter-spacing: -.03em;
     line-height: 1em;
     float:left;
