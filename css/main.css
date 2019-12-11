@@ -14,9 +14,10 @@ body {
 }
 #slide {
 
-    margin-left: 12em;
-    margin-top: 12em;
-
+    clear: left;
+    float:left;
+    vertical-align: baseline;
+    background: transparent;
 
 }
 #icon{
