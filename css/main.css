@@ -63,6 +63,7 @@ p {
     font-weight: 800;
     letter-spacing: -.03em;
     line-height: 100%;
+    clear: left;
     float:left;
     vertical-align: baseline;
     background: transparent;
