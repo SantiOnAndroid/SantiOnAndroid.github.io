@@ -43,6 +43,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:inherit;
+    color: #fafafa;
 }
 p {
     font-size: 1.5em;
@@ -52,6 +53,7 @@ p {
 footer {
     border-top: 1px solid inherit;
     font-size: .8em;
+
 }
 
 ul.posts { 
@@ -61,4 +63,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    color: #fafafa;
 }
