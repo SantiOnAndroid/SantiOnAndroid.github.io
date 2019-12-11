@@ -7,25 +7,25 @@ https{
 body {
     margin: 60px auto;
     width: 70%;
-    
-    background: #fcf;
+
+    background: #dc3545;
     transition: 5s;
 
 
 }
 
 svg{
-    font-family:Rockwell;
-    background: firebrick;
-    fill: #ffffff;
+    font-family:inherit;
+    background:#dc3545;
+    fill: #fafafa;
 }
 
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:inherit;
     padding: 0px;
     list-style: none;
-    font-weight: normal;
+    font-weight: inherit;
 
 }
 nav ul li, footer ul li {
