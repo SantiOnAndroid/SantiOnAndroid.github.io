@@ -32,8 +32,8 @@ nav ul li, footer ul li {
     float: right;
     fill: #ffffff;
     background: inherit;
-    font-size: 2em;
-    letter-spacing: -.03em;
+    font-size: 1.5em;
+    letter-spacing: -.06em;
 }
 a {
     text-decoration: none;
