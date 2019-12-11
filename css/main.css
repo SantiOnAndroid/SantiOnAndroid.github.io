@@ -103,9 +103,9 @@ ul.posts li {
 
 #quote{
     border-radius: 30px;
-    background:#c19a6b;
+    background:#FFD700;
     padding: 20px;
-    color: #FFD700;
+    color: #ffff;
     font-family: inherit;
     margin-bottom: .8em;
     display: block;
