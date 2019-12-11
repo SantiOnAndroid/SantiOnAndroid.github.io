@@ -25,6 +25,7 @@ body {
     fill: #fff;
     margin-left:  1em;
     transition: 3s;
+    float: left;
 }
 
 
