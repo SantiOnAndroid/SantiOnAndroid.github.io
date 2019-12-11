@@ -23,9 +23,9 @@ body {
     font-family:inherit;
     background:transparent;
     fill: #fff;
-    margin-left:  1em;
     transition: 3s;
     float: left;
+    clear: left;
 }
 
 
