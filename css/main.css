@@ -33,7 +33,7 @@ nav ul li, footer ul li {
     float: right;
     fill: #ffffff;
     background: inherit;
-    font-size: 0.85em;
+    font-size: 0.9em;
 }
 a {
     text-decoration: none;
@@ -48,7 +48,7 @@ h1 {
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
-    line-height: 11vm;
+    line-height: 0.8em;
     float:left;
     clear: left;
 }
@@ -58,7 +58,7 @@ p {
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
-    line-height: 11vm;
+    line-height: 0.8em;
     float:left;
     clear: left;
 }
