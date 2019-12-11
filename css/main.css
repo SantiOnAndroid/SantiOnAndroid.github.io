@@ -4,9 +4,9 @@
 
 body {
     margin: 60px auto;
-    width: 100%;
+    width: 70%;
 
-    background:rgb(213, 51, 62);
+    background: #dc3545;
     transition: 3s;
     font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
 
@@ -15,7 +15,7 @@ body {
 
 svg{
     font-family:inherit;
-    background:inherit;
+    background:#dc3545;
     fill: #fff;
     float: left;
 }
@@ -41,7 +41,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #ffffff;
+    color: #fafafa;
 }
 a:hover {
     text-decoration: underline;
