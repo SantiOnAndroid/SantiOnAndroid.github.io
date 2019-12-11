@@ -3,8 +3,8 @@
 
 
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin:  3.764062063428em auto;
+    width: 100%;
 
     background: #dc3545;
     transition: 3s;
@@ -46,7 +46,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 500%;
+    font-size: 7.4em;
     font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
     color: #fff;
     font-weight: 800;
