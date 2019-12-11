@@ -8,6 +8,7 @@ body {
 
     background: #dc3545;
     transition: 3s;
+    font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
 
 
 }
@@ -15,7 +16,7 @@ body {
 svg{
     font-family:inherit;
     background:#dc3545;
-    fill: #fafafa;
+    fill: #fff;
 }
 
 
@@ -78,5 +79,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-    color: #fafafa;
+    color: #ffff;
 }
