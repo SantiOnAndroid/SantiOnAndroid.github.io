@@ -14,8 +14,9 @@ body {
 }
 #slide {
 
-  
+
     background: transparent;
+    float: left;
 
 }
 #icon{
