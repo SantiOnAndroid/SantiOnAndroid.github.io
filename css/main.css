@@ -107,6 +107,7 @@ ul.posts li {
     color: #ffff;
     font-family: inherit;
     margin-bottom: .8em;
+    display: block;
 
 
 }
