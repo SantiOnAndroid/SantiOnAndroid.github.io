@@ -14,9 +14,7 @@ body {
 }
 #slide {
 
-    clear: left;
-    float:left;
-    vertical-align: baseline;
+  
     background: transparent;
 
 }
