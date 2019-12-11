@@ -9,7 +9,7 @@ body {
     width: 70%;
 
     background: #dc3545;
-    transition: 1s;
+    transition: 100ms;
 
 
 }
@@ -37,7 +37,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #fafafa;
 }
 a:hover {
     text-decoration: underline;
