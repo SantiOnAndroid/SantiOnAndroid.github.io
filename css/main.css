@@ -30,6 +30,9 @@ body {
     float: left;
     clear: left;
     margin-left: 1em;
+    color: #fff;
+    font-weight: 800;
+    letter-spacing: -.03em;
 
 }
 
