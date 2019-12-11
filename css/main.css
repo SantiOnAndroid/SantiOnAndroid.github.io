@@ -18,6 +18,7 @@ body {
     background: transparent;
     float: left;
     clear:left;
+    margin-left: 3em;
 
 }
 #icon{
@@ -27,6 +28,8 @@ body {
     transition: 3s;
     float: left;
     clear: left;
+    margin-left: 2em;
+    margin-top: 2em;
 }
 
 
