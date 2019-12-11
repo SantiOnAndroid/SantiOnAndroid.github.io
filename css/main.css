@@ -9,7 +9,7 @@ body {
     width: 70%;
 
     background: #dc3545;
-    transition: 5s;
+    transition: 1s;
 
 
 }
@@ -32,8 +32,8 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     float: right;
-    fill: #ffffff;
-    background: firebrick;
+    fill: #fafafa;
+    background: #dc3545;
 }
 a {
     text-decoration: none;
@@ -44,12 +44,12 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:inherit;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #fafafa;
 }
 footer {
     border-top: 1px solid #d5d5d5;
