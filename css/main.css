@@ -7,8 +7,7 @@ body {
     width: 70%;
 
     background: #dc3545;
-    animation-delay: 0.3s;
-    animation-duration: 0.75s;
+    transition: 3s;
 
 
 }
@@ -48,7 +47,7 @@ h1 {
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
-    line-height: 4em;
+    line-height: 1em;
     float:left;
     clear: left;
 }
@@ -58,7 +57,7 @@ p {
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
-    line-height: 4em;
+    line-height: 1em;
     float:left;
     clear: left;
 }
