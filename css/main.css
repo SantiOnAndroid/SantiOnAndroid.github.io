@@ -19,6 +19,7 @@ body {
     float: left;
     clear:left;
     margin: 0em auto;
+    margin-bottom: 6em;
 
 
 }
@@ -128,5 +129,4 @@ img{
 }
 .blurb{
 
-    margin-top: 0em;
 }
