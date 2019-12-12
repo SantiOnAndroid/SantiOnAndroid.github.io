@@ -28,6 +28,7 @@ body {
     fill: #fff;
     transition: 3s;
     float: left;
+    clear: left;
     margin-left: 1em;
     color: #fff;
     font-weight: 800;
