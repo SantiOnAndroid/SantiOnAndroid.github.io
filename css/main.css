@@ -71,8 +71,8 @@ h1 {
     font-weight: 800;
     letter-spacing: -.03em;
     line-height: 100%;
-    margin:0;
-    vertical-align: top;
+    margin-left: 10em;
+
 
 
 
@@ -131,4 +131,5 @@ img{
 .blurb{
     margin: 0;
     padding: 0;
+
 }
