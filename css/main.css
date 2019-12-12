@@ -18,8 +18,7 @@ body {
     background: transparent;
     float: left;
     clear:left;
-    margin: 0em auto;
-    margin-bottom: 6em;
+    margin: 0em auto
 
 
 }
@@ -73,6 +72,7 @@ h1 {
     letter-spacing: -.03em;
     line-height: 100%;
     margin-left: 1em;
+    margin-top: 0em;
 
 
 }
