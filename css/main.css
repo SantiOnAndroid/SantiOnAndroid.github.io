@@ -119,7 +119,8 @@ ul.posts li {
 img{
    float: left;
     clear: left;
-    width: 24px !important;
-    height: 24px !important;
+    width:2.1875em!important;
+    height: 2.1875em!important;
+    margin-left: 1em;
 
 }
