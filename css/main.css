@@ -107,6 +107,10 @@ ul.posts li {
     list-style: none;
     color: #ffff;
 }
+header{
+    margin: 0;
+
+}
 
 #contacte{
     text-decoration: none;
@@ -132,6 +136,6 @@ img{
     margin: 0;
     padding: 0;
     margin-left: 3em;
-    margin-bottom: 3em;
+
 
 }
