@@ -28,7 +28,7 @@ body {
     fill: #fff;
     transition: 3s;
     float: left;
-    margin-left: 1em;
+    clear: left;
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
@@ -117,7 +117,6 @@ ul.posts li {
 
 img{
    float: left;
-    clear: left;
     width:2em!important;
     height:2em!important;
 
