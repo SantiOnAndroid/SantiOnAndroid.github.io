@@ -76,7 +76,6 @@ h1 {
 
 
 
-
 }
 p {
     font-size: 2em;
@@ -86,8 +85,7 @@ p {
     font-weight: 800;
     letter-spacing: -.03em;
     line-height: 100%;
-    clear: left;
-    float:left;
+    float:right;
     vertical-align: baseline;
     background: transparent;
 
