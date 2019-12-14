@@ -77,7 +77,7 @@ h1 {
 
 
 }
-p {
+#middle.p {
     font-size: 1em;
     font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
     color: #fff;
@@ -87,7 +87,6 @@ p {
     line-height: 100%;
     float:left;
     clear: left;
-    vertical-align: baseline;
     background: transparent;
 
 }
