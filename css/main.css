@@ -86,6 +86,7 @@ p {
     letter-spacing: -.03em;
     line-height: 100%;
     float:right;
+    clear: left;
     vertical-align: baseline;
     background: transparent;
 
