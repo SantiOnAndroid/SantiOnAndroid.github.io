@@ -135,9 +135,9 @@ img{
 .blurb{
 
     animation-name: bouncing;
-    animation-duration: 800ms;
+    animation-duration: 1800ms;
     animation-iteration-count: 2;
-    animation-direction: normal;
+    animation-direction: reverse;
 
 
 }
