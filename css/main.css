@@ -137,11 +137,22 @@ img{
     margin-left: 3em;
     animation-name: bouncing;
     animation-duration: 400ms;
-    animation-iteration-count: revert;
+    animation-iteration-count: infinite;
     animation-direction: alternate-reverse;
 
 
 }
+
+@keyframes bouncing {
+    from {
+        margin-left: 100%;
+        width: 300%
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
 
 
 
