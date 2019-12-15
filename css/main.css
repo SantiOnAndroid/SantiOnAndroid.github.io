@@ -133,9 +133,14 @@ img{
 
 }
 .blurb{
-    animation: bounce 0.5s;
-    animation-direction: alternate;
+    margin: 0;
+    padding: 0;
+    margin-left: 3em;
+    animation-name: bouncing;
+    animation-duration: 400ms;
     animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+
 
 }
 
