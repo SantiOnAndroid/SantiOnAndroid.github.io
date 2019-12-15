@@ -9,6 +9,7 @@ body {
     background: #dc3545;
     transition: 3s;
     font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
+    display: flex;
 
 
 }
@@ -132,27 +133,15 @@ img{
 
 }
 .blurb{
-    margin: 0;
-    padding: 0;
-    margin-left: 3em;
-    animation-name: bouncing;
-    animation-duration: 400ms;
+    animation: bounce 0.5s;
+    animation-direction: alternate;
     animation-iteration-count: infinite;
-    animation-direction: alternate-reverse;
-
 
 }
 
 @keyframes bouncing {
-    from {
-        margin-left: 100%;
-        width: 300%
-    }
-
-    to {
-        margin-left: 0%;
-        width: 100%;
-    }
+    from { transform: translate3d(0, 0, 0);     }
+    to   { transform: translate3d(0, 200px, 0); }
 }
 
 
