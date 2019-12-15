@@ -143,11 +143,5 @@ img{
 
 }
 
-@keyframes bouncing {
-    from {
-        transform: translateY(500px);
-    }
-    to {
-        transform: translateY(0);
-    }
-}
+
+
