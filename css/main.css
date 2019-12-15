@@ -135,7 +135,19 @@ img{
     margin: 0;
     padding: 0;
     margin-left: 3em;
+    animation-name: bouncing;
+    animation-duration: 400ms;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
 
 
 }
 
+@keyframes bouncing {
+    from {
+        transform: translateY(500px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
