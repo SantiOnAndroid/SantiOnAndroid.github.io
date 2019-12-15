@@ -138,7 +138,7 @@ img{
     margin-left: 3em;
     animation-name: bouncing;
     animation-duration: 400ms;
-    animation-iteration-count: infinite;
+    animation-iteration-count: initial;
     animation-direction: alternate-reverse;
 
 
