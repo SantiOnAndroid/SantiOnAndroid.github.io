@@ -139,7 +139,15 @@ img{
 
 
 
-.blurb {
+
+
+
+
+
+
+
+
+.container{
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
@@ -150,23 +158,37 @@ img{
 
 
 
+svg{
+    transform: skew(-10deg);
+    display: block;
+    float: left;
+    
+}
 
 
-.blurb {
+h1{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 42px;
+    margin: 0;
+    line-height: 47px;
+    letter-spacing: 2px;
+}
+
+.slide{
     transform: translateX(-50%) rotate(-10deg);
     display: block;
     float: left;
     left: 50%;
-    position: relative;
-}
-.blurb svg {
+    position: relative;}
+
+svg {
     transform: skew(-10deg);
     display: block;
     float: left;
 
     position: relative;
 }
-
 
 
 
