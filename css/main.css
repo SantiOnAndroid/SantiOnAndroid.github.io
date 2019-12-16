@@ -144,8 +144,8 @@ img{
 }
 
 @keyframes bouncing {
-    from { transform: translateY(0);     }
-    to   { transform: translateY(150px); }
+    0% { transform: translateY(0);     }
+    100%   { transform: translateY(150px); }
 }
 
 
