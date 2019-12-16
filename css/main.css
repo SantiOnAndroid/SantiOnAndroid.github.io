@@ -135,16 +135,16 @@ img{
 .blurb{
 
     animation-name: bouncing;
-    animation-duration: 1800ms;
+    animation-duration: 400ms;
     animation-iteration-count: 3;
-    animation-direction: reverse;
+    animation-direction: alternate-reverse;
 
 
 }
 
 @keyframes bouncing {
-    from { transform: translate3d(0, 0, 0);     }
-    to   { transform: translate3d(0, 200px, 0); }
+    from { transform: translateY(500px);     }
+    to   { transform: translateY(0); }
 }
 
 
