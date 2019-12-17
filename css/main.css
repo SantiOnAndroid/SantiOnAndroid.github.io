@@ -131,12 +131,7 @@ img{
 
 }
 
-span{
-    transform: skew(-10deg);
-    display: block;
-    float: left;
 
-}
 
 
 h1{
@@ -162,8 +157,7 @@ span {
     display: block;
     float: left;
 
-    min-width: 10px;
-    min-height: 10px;
+ 
     position: relative;
 }
 
