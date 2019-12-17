@@ -13,7 +13,7 @@ body {
 
 
 }
-#slide.blurb {
+#slide {
 
 
     background: transparent;
@@ -28,7 +28,6 @@ body {
     background:transparent;
     fill: #fff;
     float: left;
-    clear: left;
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
