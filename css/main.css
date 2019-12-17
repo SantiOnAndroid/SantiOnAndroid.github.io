@@ -28,6 +28,7 @@ body {
     background:transparent;
     fill: #fff;
     float: left;
+    clear: left;
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
