@@ -87,7 +87,7 @@ h1 {
     font-weight: 800;
     letter-spacing: -.03em;
     line-height: 100%;
-   
+
     background: transparent;
 
 }
@@ -132,7 +132,7 @@ img{
 
 
 }
-.blurb.slide{
+.blurb{
 
     animation-name: bounce;
     animation-duration: 3s;
