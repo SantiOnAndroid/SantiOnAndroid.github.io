@@ -66,18 +66,7 @@ a:hover {
     text-decoration: underline;
 }
 
- p {
-    font-size: 1em;
-    font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
-    color: #fff;
-    text-align: left;
-    font-weight: 800;
-    letter-spacing: -.03em;
-    line-height: 100%;
 
-    background: transparent;
-
-}
 footer {
     border-top: 1px solid inherit;
     font-size: .8em;
@@ -145,39 +134,39 @@ img{
 
 }
 
-
-.css-typing {
-    font-size: 7.4em;
-    font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
-    color: #fff;
-    font-weight: 800;
-    letter-spacing: -.03em;
-    line-height: 100%;
-    overflow:hidden;
-    -webkit-animation: type 5s steps(40, end);
-    animation: type 5s steps(40, end);
-
+.css-typing p {
+    border-right: .15em solid orange;
+    font-family: "Courier";
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
 }
-.css-typing:nth-child(2)
-{
-    white-space:nowrap;
-    overflow:hidden;
-    opacity:0;
-    -webkit-animation: type 5s steps(40, end);
-    animation: type2 5s steps(40, end);
-    -webkit-animation-delay: 5s;
-    animation-delay: 5s;
+.css-typing p:nth-child(1) {
+    width: 7.3em;
+    -webkit-animation: type 2s steps(40, end);
+    animation: type 2s steps(40, end);
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
 }
-.css-typing:nth-child(3){
-    white-space:nowrap;
-    overflow:hidden;
-    opacity:0;
-    -webkit-animation: type 5s steps(40, end);
-    animation: type3 5s steps(40, end);
-    -webkit-animation-delay: 10s;
-    animation-delay: 10s;
+
+.css-typing p:nth-child(2) {
+    width: 11.5em;
+    opacity: 0;
+    -webkit-animation: type2 2s steps(40, end);
+    animation: type2 2s steps(40, end);
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+.css-typing p:nth-child(3) {
+    width: 7.3em;
+    opacity: 0;
+    -webkit-animation: type3 5s steps(20, end), blink .5s step-end infinite alternate;
+    animation: type3 5s steps(20, end), blink .5s step-end infinite alternate;
+    -webkit-animation-delay: 4s;
+    animation-delay: 4s;
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
 }
@@ -269,7 +258,7 @@ img{
 }
 @-webkit-keyframes blink {
     50% {
-        
+        border-color: transparent;
     }
 }
 
