@@ -154,12 +154,11 @@ h1{
     transform: translateX(-50%) ;
     display: block;
     float: left;
-    left: 10%;
     position: relative;
 
 }
 span {
-  
+
     display: block;
     float: left;
 
