@@ -133,33 +133,41 @@ img{
 
 
 
-
-h1{
-
-
+.title{
     font-size: 7.4em;
     font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
     color: #fff;
     font-weight: 800;
     letter-spacing: -.03em;
     line-height: 100%;
-}
 
-.title {
-    transform: translateX(-50%) ;
-    display: block;
-    float: left;
-    position: relative;
+
 
 }
-span {
-
-    display: block;
-    float: left;
 
 
-    position: relative;
+.css-typing {
+    font-size: 7.4em;
+    font-family: "Neue Einstellung",Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #fff;
+    font-weight: 800;
+    letter-spacing: -.03em;
+    line-height: 100%;
+    white-space:nowrap;
+    overflow:hidden;
+    -webkit-animation: type 2s steps(50, end);
+    animation: type 5s steps(50, end);
+
 }
+
+@keyframes type {
+    from { width: 0; }
+}
+
+@-webkit-keyframes type {
+    from { width: 0; }
+}
+
 
 
 
